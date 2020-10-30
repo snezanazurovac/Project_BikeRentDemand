@@ -51,6 +51,9 @@ BUILDING MACHINE LEARNING MODEL CONSISTS NEXT STEPS:
 2.Impoving Ml_model by using ENSEMBLE METODS(Voting Regressor and Stacking metod)
 
 	NOTEBOOK III - Prediction of BikeRenting using NeuralNetowork
+
+https://www.kaggle.com/olgazz/nn-fastai-bikerenting
+
 ========================================================================
 CONCLUSION OF WORK (Results of ML model)
 
